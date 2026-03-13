@@ -383,6 +383,7 @@ const logout = () => {
 ./mvnw spring-boot:run
 
 # Frontend starten
+npm install
 npm run dev
 
 # Tests ausführen
